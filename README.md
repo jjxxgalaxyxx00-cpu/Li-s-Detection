@@ -1,7 +1,6 @@
 # 李's Detection
 
-Li's Detection is a robust pixel analyzing, edge detecting algorithm supports color/gray multi-channel edge detection. 
-Experiementing and showed de-obfucating capability for detecting "true edge" from obfuscated images like CAPTCHAs.
+Li's Detection is a robust pixel analyzing, edge detecting algorithm supports color/gray multi-channel edge detection, pixel-level accuracy edge detection on "natural images", and domonstrated de-obfucating capability on obfuscated images like CAPTCHAs.
 
 ### Performance
 - Detection Performance:
