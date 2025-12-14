@@ -2,8 +2,10 @@
 
 Li's Detection is a robust pixel analyzing, edge detecting algorithm supports color/gray multi-channel edge detection, domonstrated de-obfucating capability on obfuscated images like CAPTCHAs using Blur, edge disorientation to detect "true edges", and pixel-level accuracy robust detecting performance on "natural images" on-pair traditional edge detecting algorihtms.
 
-Language: Written in Python with Numpy
-Optimized speed with Numpy, about 2 - 6 times slower than C.
+Language: Python 
+
+Speed Optimization:
+Optimized with Numpy, about 2 - 6 times slower than C.
 
 ### Performance
 - Detection Performance:
