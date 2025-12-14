@@ -8,28 +8,22 @@ Experiementing and showed de-obfucating capability for detecting "true edge" fro
   - Natural Image:
     - Robust performance on-pair gradient detecting algorithms like Canny
   - Obsucated Image:
-    - Far superior than gradiant based algorithms 
-  
-
-### Performance
-- Detection Performance:
-  - Natural Image:
-    - Robust performance on-pair gradient detecting algorithms like Canny
-    - Demos:
-      - Human with background (color -> whiten):
-        - ![alt text](/README_Images/detector_jennie.png)
-      - Sheep (color -> color):
-        - ![alt text](/README_Images/detector_sheep.png)
-  - Obsucated Image:
-    - Far superior than gradiant based algorithms 
-    - Demos:
-      - Hcaptcha:
-        - ![alt text](/README_Images/detector_hcaptcha1.png)
-
+    - Far superior than gradiant based algorithms
 - Execution Performance:
   - Optimized with Numpy, on Python:
     - An average 400x400 image per channel executing speed is 0.02s
     - About 2 - 6 times slower than optimized in C while in pure Python
+  
+
+### Demos
+  - Natural Images:
+    - Human with background (color -> whiten):
+      - ![alt text](/README_Images/detector_jennie.png)
+    - Sheep (color -> color):
+      - ![alt text](/README_Images/detector_sheep.png)
+  - Obsucated Images:
+      - Hcaptcha:
+        - ![alt text](/README_Images/detector_hcaptcha1.png)
 
 
 Related:
