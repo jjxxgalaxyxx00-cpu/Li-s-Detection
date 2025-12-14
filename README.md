@@ -1,10 +1,9 @@
 # 李's Detection
 
-Li's Detection is a edge detection algorithm built from ground up able identify edges in an image, has capability that penetrating obfuscated process such as edge disorintation, layer-adding, cropping and rotation.
+Li's Detection is a robust pixel analyzing, edge detecting algorithm supports color/gray multi-channel edge detection. 
 
 ### Performance
 - Detection Performance:
-  - Ability to adopt and changing parameters for large region detection to bypass obfucation
   - Natural Image:
     - Robust performance on-pair gradient detecting algorithms like Canny
     - Demos:
