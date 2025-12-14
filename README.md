@@ -7,9 +7,9 @@ Li's Detection is a robust pixel analyzing, edge detecting algorithm supports co
   - Natural Image:
     - Robust performance on-pair gradient detecting algorithms like Canny
     - Demos:
-      - Human with background:
+      - Human with background (color -> whiten):
         - ![alt text](/README_Images/detector_jennie.png)
-      - Sheep:
+      - Sheep (color -> color):
         - ![alt text](/README_Images/detector_sheep.png)
   - Obsucated Image:
     - Far superior than gradiant based algorithms 
