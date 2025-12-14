@@ -9,14 +9,14 @@ Li's Detection is a edge detection algorithm built from ground up able identify 
     - Robust performance on-pair gradient detecting algorithms like Canny
     - Demos:
       - Human with background:
-        - ![alt text](/images/Figure_1.png)
+        - ![alt text](/README_Images/Figure_1.png)
       - Sheep:
-        - ![alt text](/images/sheep.png)
+        - ![alt text](/README_Images/sheep.png)
   - Obsucated Image:
     - Far superior than gradiant based algorithms 
     - Demos:
       - Hcaptcha:
-        - ![alt text](/images/2.png)
+        - ![alt text](/README_Images/2.png)
 
 - Execution Performance:
   - Optimized with Numpy, on Python:
